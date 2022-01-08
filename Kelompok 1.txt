@@ -1,0 +1,30 @@
+				Kelompok 1 
+
+Nama Anggota :
+1. M Ade Noval (19090002)
+2. Ikhlasul Amal (19090007)
+3. Ariffulah (19090010)
+4. Diaz Hafidzah Rachma
+
+Tools : Website Visual code
+
+
+Job Desk :
+
+1. Ariffulah (19090010)
+- Modifikasi source kode solusi ideal Positif A+ dan A- (Terkait benefit dan cost)
+- Memodifikasi tampilan dan source kode
+- Memasukan nilai bobot dalam souce kode
+- Memperbaiki Databse
+
+2. M Ade Noval (19090002)
+- Membuat Database 
+- Memperbaiki nilai ternormalisasi di dalam source kode
+
+3. Ikhlasul Amal (19090007)
+- Membuat Database
+- Menambahkan source koede di home
+
+4. Diaz Hafidzah Rachma (19090095)
+- Memperbaiki Database
+- Memasukan nilai pembagi
